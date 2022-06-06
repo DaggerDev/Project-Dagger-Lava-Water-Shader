@@ -14,3 +14,5 @@ Wishlist or buy Project Dagger here : [Steam](https://store.steampowered.com/app
 Setup :
 
 ![](https://github.com/DaggerDev/Project-Dagger-Lava-Water-Shader/blob/main/Inspector-Setup.PNG)
+
+*I am not a shader developer, and not someone who has really any knowledge as to how they work so understand that this code is probably not the best, there are probably variables still included within the shader that do not need to be in there, etc... I took a shader that I knew very little about other than how it looked on a model and then added something to it to improve the overall result.
